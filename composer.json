@@ -1,5 +1,5 @@
 {
-    "name": "koshiba/pal",
+    "name": "koshiba/console-pal",
     "type": "library",
     "description": "Helper to create MVC patterns for Koshiba's Framework",
     "keywords": ["console", "cli", "command-line", "terminal"],
