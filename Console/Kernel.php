@@ -1,6 +1,6 @@
 <?php
 
-namespace Koshiba\Pal\Console;
+namespace Koshiba\Console;
 
 class Kernel {
 	public function __construct() {
