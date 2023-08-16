@@ -1,6 +1,7 @@
 {
     "name": "koshiba/console-pal",
     "type": "library",
+    "license": "MIT",
     "description": "Helper to create MVC patterns for Koshiba's Framework",
     "keywords": ["console", "cli", "command-line", "terminal"],
     "authors": [
