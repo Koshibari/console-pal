@@ -1,0 +1,20 @@
+{
+    "name": "koshiba/pal",
+    "type": "library",
+    "description": "Helper to create MVC patterns for Koshiba's Framework",
+    "keywords": ["console", "cli", "command-line", "terminal"],
+    "authors": [
+        {
+            "name": "Koshibari",
+            "email": "archano@yandex.ru"
+        }
+    ],
+    "require": {
+        "php": "^8.1"
+    },
+    "autoload": {
+        "psr-4": {
+            "Koshiba\\Pal\\": "src/"
+        }
+    }
+}
